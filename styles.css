@@ -1,0 +1,47 @@
+#headTitle {
+    font: italic 2em Georgia, serif;
+    text-align: center;
+    margin: 20px 0 0 0;
+}
+
+#picture {
+    margin: 25px 20px 0 0;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+}
+
+nav {
+    margin: 25px 0 0 0;
+}
+
+footer {
+    text-align: center;
+    font-size: small;
+}
+
+p {
+    width: 500px;
+    margin: 20px 0 0 0;
+}
+
+a {
+    text-decoration: none;
+    color: #5072A7;
+}
+
+.odd {
+    background-color: #E1EBEE;
+}
+
+.icon {
+    margin: 5px 5px 0 0;
+}
+
+.form {
+    margin: 5px 0 0 0;
+}
